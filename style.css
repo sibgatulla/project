@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:darkgrey;
+    font-family: "Trirong", serif;
+}
+
+.total-body{
+    max-width: 1000px;
+    height: 1200px;
+    background-color:cadetblue;
+    margin: 0 auto;
+    padding: 5px;
+}
+.image{
+    height: 120px;
+    width: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: right;
+   
+}
+.header-contact{
+    float: left;
+   
+    
+}
+.head{
+    background-color: cadetblue;
+}
+.header-bio{
+    margin-top: 30px;
+    float: right;
+    padding: 0 20px;
+    
+}
+h1,h2,h3,h4,h5{
+    color:burlywood;
+    margin: 0 auto;
+}
+.clear-div{
+    clear: both;
+}
+
+.left-div{
+    float: left;
+    width: 30%;
+}
+
+.right-div{
+    float: left;
+    width: 70%;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color:beige;
+  }
+  ul {
+    list-style-type: circle;
+  }
+.font-size{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:large;
+}
+.para{
+    margin-bottom: -3px;
+}
+
+.ref-2{
+    margin-top: 30px;
+}
